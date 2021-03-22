@@ -18,7 +18,9 @@
 <h2>Model Training</h2>
 <ul>
   <li><h3>Loss<h3></li>
-<ul>
+</ul>
 <img src="https://github.com/NavinBondade/Rice-Leaf-Diseases-Detection-And-Classification/blob/main/Rice%20Diseases%20Classification%20and%20Prediction/Graph/loss.png" width="450" height="300">
-<h3>Accuracy<h3>
+<ul>
+  <li><h3>Accuracy<h3></li>
+</ul>
 <img src="https://github.com/NavinBondade/Rice-Leaf-Diseases-Detection-And-Classification/blob/main/Rice%20Diseases%20Classification%20and%20Prediction/Graph/accuracy.png" width="450" height="300">
