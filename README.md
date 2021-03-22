@@ -34,6 +34,6 @@
   <li><b>Test Data Loss: 0.19</b></li> 
 </ul>  
 <h2>Model Prediction</h2>
-<img src=https://github.com/NavinBondade/Rice-Leaf-Diseases-Detection-And-Classification/blob/main/Rice%20Diseases%20Classification%20and%20Prediction/Pictures/5%20Rice%20Diseases%20Prediction.png">
+<img src="https://github.com/NavinBondade/Rice-Leaf-Diseases-Detection-And-Classification/blob/main/Rice%20Diseases%20Classification%20and%20Prediction/Pictures/5%20Rice%20Diseases%20Prediction.png">
 <p>Even without having trend, season, and patterns in time-series, the GRU based deep learning model has forecasted the next 50 days price of Bitcoin very accurately.</p>  
 
