@@ -12,6 +12,6 @@
   <li>Glob</li>
 </ul>
 <h2>Data Visualization</h2>
-<img src="https://github.com/NavinBondade/Rice-Leaf-Diseases-Detection-And-Classification/blob/main/Rice%20Diseases%20Classification%20and%20Prediction/Graph%20and%20Pictures/5%20Rice%20Diseases.png" alt="tomato" width="560" height="850">
+<img src="https://github.com/NavinBondade/Rice-Leaf-Diseases-Detection-And-Classification/blob/main/Rice%20Diseases%20Classification%20and%20Prediction/Pictures/5%20Rice%20Diseases%20v2.png?raw=true" alt="rice" >
 <h2>Model Detail</h2>
 <p>The deep learning model at its core uses four convolutional neural network layers followed by Max pooling layers for recognizing the rice diseases, it also uses three dense layers for decision making. All the layers use RELU as an activation function except the last dense layer that uses the softmax activation function. During training, the model uses Adam as an optimizer for performing backpropagation and uses categorical cross-entropy as the loss function. </p>
