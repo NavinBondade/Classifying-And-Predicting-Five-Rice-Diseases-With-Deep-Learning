@@ -1,4 +1,4 @@
-# Classifying And Predicting Five Rice Crop Diseases
+# Classifying Five Rice Crop Diseases With Deep Learning
 <img src="https://image.freepik.com/free-photo/rice-blast-disease-rice-diseases-damage-rice-grains-paddy-farms_46178-489.jpg" alt="tomato" width="1000" height="510">
 <p>Rice is an inseparable part of Indian's diet, and that's why India every year produces a whopping 104.80 million tonnes of rice. Rice is counted as one of the most labor-intensive crops to grow. Rice crops often suffer from soil moisture stress due to erratic, inadequate rainfall, and other environmental factors. These many times give rise to the spread of diseases which badly damage the crop fields and cause wastage of money and time to farmers too. To battle against this problem and provide farmers a cheaper and faster means of understanding the crop diseases I have created a deep learning model that capable of identifying five rice diseases.</b></p> 
 <h2>Libraries Used</h2>
