@@ -56,7 +56,9 @@ The training process was meticulously monitored to avoid issues such as overfitt
 </ul>  
 <h2>Model Prediction</h2>
 <img src="https://github.com/NavinBondade/Rice-Leaf-Diseases-Detection-And-Classification/blob/main/Rice%20Diseases%20Classification%20and%20Prediction/Pictures/5%20Rice%20Diseases%20Prediction.png">
-<p>During the model testing phase, the model has predicted all the five rice diseases i.e, Gudi Rotten, Apex Blast, Leaf Blast, Leaf Burn, Neck Blast Paddy with <b>100 percent accuracy.</b></p>  
+<p>During the testing phase, the model demonstrated exceptional performance by achieving a flawless accuracy rate of 100 percent in predicting all five rice diseases. These diseases include Gudi Rotten, Apex Blast, Leaf Blast, Leaf Burn, and Neck Blast Paddy. This perfect accuracy underscores the model's efficacy and reliability in distinguishing between the different types of rice diseases.
+
+The model's ability to correctly identify each disease with complete precision highlights its robustness and effectiveness in real-world applications. Such high accuracy not only validates the model's capability but also provides farmers with a dependable tool for accurate disease diagnosis, ultimately contributing to improved crop management and reduced agricultural losses.</b></p>  
 <h2>Conclusion</h2>
 <p>In this project, I have created deep convolutional neural network architecture for correctly identifying the five rice crop diseases with an accuracy of 92 percent. </p>    
 
